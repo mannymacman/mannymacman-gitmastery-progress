@@ -122,5 +122,14 @@
       "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786950077.71918,
+    "completed_at": 1786950079.631879,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
   }
 ]

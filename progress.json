@@ -257,5 +257,14 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1787280614.047747,
+    "completed_at": 1787280616.349489,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
   }
 ]
